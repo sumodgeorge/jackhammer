@@ -24,7 +24,7 @@
 
     <properties>
 
-        <dropwizard.version>3.0.0</dropwizard.version>
+        <dropwizard.version>3.0.1</dropwizard.version>
 
     </properties>
 
@@ -179,7 +179,7 @@
 	<dependency>
             <groupId>com.github.docker-java</groupId>
             <artifactId>docker-java</artifactId>
-            <version>3.2.0</version>
+            <version>3.3.3</version>
         </dependency>
 
     </dependencies>
