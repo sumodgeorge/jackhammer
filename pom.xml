@@ -24,7 +24,7 @@
 
     <properties>
 
-        <dropwizard.version>3.0.0</dropwizard.version>
+        <dropwizard.version>4.0.0</dropwizard.version>
 
     </properties>
 
@@ -149,7 +149,7 @@
         <dependency>
             <groupId>commons-validator</groupId>
             <artifactId>commons-validator</artifactId>
-            <version>1.6</version>
+            <version>1.10.0</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/org.apache.directory.studio/org.apache.commons.io -->
         <dependency>
@@ -160,7 +160,7 @@
         <dependency>
             <groupId>com.amazonaws</groupId>
             <artifactId>aws-java-sdk-s3</artifactId>
-            <version>1.12.530</version>
+            <version>1.12.787</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/com.sun.mail/javax.mail -->
         <dependency>
