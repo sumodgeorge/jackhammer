@@ -24,7 +24,7 @@
 
     <properties>
 
-        <dropwizard.version>3.0.0</dropwizard.version>
+        <dropwizard.version>5.0.0</dropwizard.version>
 
     </properties>
 
@@ -87,7 +87,7 @@
         <dependency>
             <groupId>org.springframework.security</groupId>
             <artifactId>spring-security-core</artifactId>
-            <version>4.2.3.RELEASE</version>
+            <version>6.4.11</version>
         </dependency>
         <!-- https://mvnrepository.com/artifact/com.hubspot.dropwizard/dropwizard-guice -->
         <dependency>
